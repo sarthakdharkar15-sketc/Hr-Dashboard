@@ -1,4 +1,4 @@
-# HR NOVA — Enterprise Smart HR Management System (HRMS)
+# HR Dashboard — Enterprise Smart HR Management System (HRMS)
 
 > A modern dark-themed enterprise SaaS HR platform inspired by Linear, Stripe, and Vercel. Engineered with React 19, Vite, Tailwind CSS v4, Recharts, and Lucide Icons.
 
